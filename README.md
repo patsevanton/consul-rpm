@@ -163,3 +163,4 @@ configuration directory. As of 0.7.2, the default directory was changed to
 `/etc/consul.d/` in order to align with the offcial Consul docuemntation. In
 order to avoid breaking existing installations during upgrade, *both* of the
 directories will be created during package install.
+
